@@ -1,0 +1,22 @@
+{
+  "name": "express-server",
+  "version": "1.0.0",
+  "description": "A server to run passport.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-bear/Foundations-of-Computational-Media.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/T-bear/Foundations-of-Computational-Media/issues"
+  },
+  "homepage": "https://github.com/T-bear/Foundations-of-Computational-Media#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
